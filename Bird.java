@@ -1,4 +1,4 @@
-package com.singtel.sectionA;
+package com.singtel.partA;
 
 public class Bird extends Animal {
 
