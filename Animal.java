@@ -1,4 +1,4 @@
-package com.singtel.partA;
+package com.singtel.sectionA;
 
 public abstract class Animal {
 
